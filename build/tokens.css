@@ -1,0 +1,56 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --color-brand-yellow-dark-500: #1b0e00;
+  --color-brand-yellow-dark-400: #392201;
+  --color-brand-yellow-dark-300: #633e04;
+  --color-brand-yellow-300: #915d0a;
+  --color-brand-yellow-200: #c17e11;
+  --color-brand-yellow-100: #f4a019;
+  --color-brand-yellow-000: #fed1ad;
+  --color-brand-green-dark-500: #012903;
+  --color-brand-green-dark-400: #034c09;
+  --color-brand-green-dark-300: #067312;
+  --color-brand-green-300: #0c9c1d;
+  --color-brand-green-200: #12c728;
+  --color-brand-green-100: #19f433;
+  --color-brand-green-000: #c6ffc8;
+  --color-brand-blue-dark-500: #011235;
+  --color-brand-blue-dark-400: #062e6f;
+  --color-brand-blue-dark-300: #0f4caf;
+  --color-brand-blue-300: #196df4;
+  --color-brand-blue-200: #7395fc;
+  --color-brand-blue-100: #aebdfd;
+  --color-brand-blue-000: #e2e7fe;
+  --color-brand-pink-black-500: #48023f;
+  --color-brand-pink-black-400: #7d076f;
+  --color-brand-pink-black-300: #b710a3;
+  --color-brand-pink-300: #f419da;
+  --color-brand-pink-200: #fd82e8;
+  --color-brand-pink-100: #fec5f2;
+  --color-brand-pink-000: #ffebfa;
+  --color-brand-grey-dark-400: #282625;
+  --color-brand-grey-dark-300: #484644;
+  --color-brand-grey-300: #6b6765;
+  --color-brand-grey-200: #908b88;
+  --color-brand-grey-100: #b7b1ad;
+  --color-brand-grey-000: #dcd9d7;
+  --color-brand-red-000: #fe0000;
+  --color-semantic-background-yellow: #633e04;
+  --color-semantic-primary-yellow: #f4a019;
+  --color-semantic-secondary-yellow: #fed1ad;
+  --color-semantic-background-green: #034c09;
+  --color-semantic-primary-green: #19f433;
+  --color-semantic-secondary-green: #c6ffc8;
+  --color-semantic-background-blue: #062e6f;
+  --color-semantic-primary-blue: #196df4;
+  --color-semantic-secondary-blue: #aebdfd;
+  --color-semantic-background-pink: #7d076f;
+  --color-semantic-primary-pink: #f419da;
+  --color-semantic-secondary-pink: #fec5f2;
+  --color-semantic-grey-black: #282625;
+  --color-semantic-grey-light: #dcd9d7;
+  --color-semantic-danger: #fe0000;
+}

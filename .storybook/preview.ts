@@ -1,11 +1,23 @@
 import type { Preview } from '@storybook/react-vite'
 
+// .storybook/preview.js
+import '../build/tokens.css';
+//export const parameters = { /* ... */ };
+
 const preview: Preview = {
   parameters: {
+     //actions: { argTypesRegex: "^on[A-Z].*" },
     controls: {
+      expanded: true,
       matchers: {
        color: /(background|color)$/i,
        date: /Date$/i,
+      },
+    },
+    backgrounds: {
+      options: {
+        light: { name: 'Light', value: '#fff' },
+        dark: { name: 'Dark', value: '#333' },
       },
     },
 
